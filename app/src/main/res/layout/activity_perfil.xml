@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    tools:context="com.adriancastano.tillapp.PerfilActivity"
+    android:layout_margin="20sp">
+
+    <ImageView
+        android:id="@+id/iPerfil"
+        android:layout_width="56sp"
+        android:layout_height="56sp"
+        android:src="@drawable/user"
+        android:layout_marginBottom="20sp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/tCorreo"
+        android:text="@string/correo"
+        android:gravity="center"
+        android:textSize="24sp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/tContrasena"
+        android:text="@string/contrasena"
+        android:gravity="center"
+        android:textSize="16sp"/>
+
+</LinearLayout>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "680289545148",
+    "project_id": "firebase-tillapp"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:680289545148:android:d840f02411cf3ef0",
+        "android_client_info": {
+          "package_name": "com.adriancastano.tillapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "680289545148-j0fhq6qkgvqnuvbqq1dkeidlh9c3e65m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.adriancastano.tillapp",
+            "certificate_hash": "cf7d3bd1d1eab2c40b2215ad9e5b50b12068552d"
+          }
+        },
+        {
+          "client_id": "680289545148-d20amqgu69lpu14a4oiokqlanqdj40m7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdN1_J6vfAIFrj3JzTg1cgRc-jG29VMnA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
